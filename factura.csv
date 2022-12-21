@@ -1,0 +1,9 @@
+A001,"['Javier', 'Rojas', '30981726', '7850900700', 'Avenida Sur']","[('4', 'mermelada', 'fresa', '18')]",11/12/2022
+A002,"['Jose', 'Romero', '98765430', '6185030125', 'Calle Real']","[('2', 'mermelada', 'fresa', '18'), ('1', 'mantequilla', 'mati', '6.5A006')]",11/12/2022
+A003,"['Samuel', 'Cabrera', '51641728', '2160045160', 'Paseo 1']","[['pan', 'integral', '1']]",['12/12/2022']
+F004,"['Maria', 'Giraldo', '38697027', '6385020810', 'Avenida Central']","[['mermelada', 'pinia', '20']]",['12/12/2022']
+F005,"['Jose Manuel', 'Bola�os', '19407258', '8590017520', 'Paseo 1']","[['mermelada', 'fresa', '18', 'mermelada', 'pinia', '20'], ['mermelada', 'fresa', '18', 'mermelada', 'pinia', '20']]",['13/12/2022']
+F006,"['carlos', 'mullisaca', '8746385', '93477659', 'jr.irusdou']","[['pan', 'integral', '1', 'mermelada', 'fresa', '18'], ['pan', 'integral', '1', 'mermelada', 'fresa', '18']]",['13/12/2022']
+F007,"['carlos', 'mullisaca', '8746385', '93477659', 'jr.irusdou']","[['6', 'A002', 'pan', 'integral', '1'], ['1', 'A006', 'mermelada', 'fresa', '18']]",['13/12/2022']
+F008,"['carlos', 'mullisaca', '8746385', '93477659', 'jr.irusdou']","[['8', 'A002', 'pan', 'integral', '1'], ['1', 'A006', 'mermelada', 'fresa', '18']]",['13/12/2022']
+F009,"['Jose', 'Romero', '98765430', '6185030125', 'Calle Real']","[['1', 'A001', 'pastel', 'fresa', '15'], ['1', 'A006', 'mermelada', 'fresa', '18']]",['13/12/2022']
